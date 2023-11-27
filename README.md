@@ -24,5 +24,15 @@
 ## 4. Make this into a state transition diagram
 <img width="569" alt="Screenshot 2023-11-27 at 16 58 29" src="https://github.com/karysbarbrook/state-transitions-challenge/assets/101115101/414c965a-1948-4bab-ae98-c4c822975c7a">
 
+## 5. Draw up a state transition table, based on your diagram, populating the table below
 
+| Initial State | Event                    | Next State               |
+| ------------- | ------------------------ | ------------------------ |
+| Sign-up page  | Invalid sign-up details  | Sign-up page             |
+| Sign-up page  | Sign up                  | Log-in page              |
+| Sign-up page  | Click log-in link        | Log-in page              |
+| Log-in page   | Incorrect log-in details | Log-in page              |
+| Log-in page   | Click sign up link       | Sign-up page             |
+| Log-in page   | Log in                   | Logged-in page/home page |
+| Logged-in page| Log out                  | Log-in page              |
 
