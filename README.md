@@ -46,4 +46,15 @@
 | Click log-in link                  | Log-in page              |
 | Log-in       | Logged-in page              |
 
+### Covering all transitions test: initial version
 
+| Events                   | States                   |
+| ------------------------ | ------------------------ |
+| Start  | Sign-up page             |
+| Invalid sing-up details                  | Sign-up page             |
+| Click log-in link        | Log-in page              |
+| Incorrect log-in details | Log-in page |
+| Click sign-up link | Sign-up page |
+| Sign-up successfully | Log-in page |
+| Log-in | Logged-in page |
+| Log-out | Log-in page |
