@@ -22,6 +22,7 @@
 * User logging out
 
 ## 4. Make this into a state transition diagram
+<img width="569" alt="Screenshot 2023-11-27 at 16 58 29" src="https://github.com/karysbarbrook/state-transitions-challenge/assets/101115101/414c965a-1948-4bab-ae98-c4c822975c7a">
 
 
 
