@@ -36,3 +36,14 @@
 | Log-in page   | Log in                   | Logged-in page/home page |
 | Logged-in page| Log out                  | Log-in page              |
 
+## 6. Design a test case that covers all states and all events/transitions at least once i.e. what is the starting state and what events (in what order) are required
+
+### Covering all states test:
+
+| Events                   | States                   |
+| ------------------------ | ------------------------ |
+| Start  | Sign-up page             |
+| Click log-in link                  | Log-in page              |
+| Log-in       | Logged-in page              |
+
+
